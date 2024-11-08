@@ -1,1 +1,4 @@
 # FT_ProjetoP2
+Este repositório tem como objetivo apoiar o desenvolvimento do projeto de conclusão da disciplina de Fenômenos de Transporte, como parte do currículo do curso de Engenharia de Software – 6º período. O projeto consiste na criação de um sistema computacional capaz de dimensionar a capacidade de um sistema de climatização (ar condicionado), levando em consideração diversas variáveis fornecidas pelo usuário.
+
+O sistema será desenvolvido com base na aplicação da Lei de Fourier, garantindo o cálculo preciso do fluxo de calor, fundamental para a determinação da capacidade necessária do equipamento de climatização. O processo de desenvolvimento será orientado e monitorado pela professora Ana Carollina Massone, garantindo o acompanhamento contínuo da qualidade técnica e acadêmica do trabalho.
